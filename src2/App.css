@@ -1,0 +1,12 @@
+
+h1{
+  color: red;
+}
+img{
+  height: 240px ;
+  width: 320px;
+}
+.diva{
+  border: solid 1px black;
+  max-width: 100vw;
+}
